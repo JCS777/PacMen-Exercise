@@ -6,7 +6,7 @@ This repository contains code from an MIT coding exercise that animates a new pa
 To run this code, copy all the files into the same directory and the open the index.html file in your browser. Then simply click the "Add PacMan" button and enjoy!<br>
 <br>
 <b>Roadmap to future improvements:</b><br>
-In future versions, it might be exciting to write code that allows a users to upload any images they like so the PacMen Factory can become an factory for any character.<br> 
+In future versions, it might be exciting to write code that allows users to upload any images they like so the PacMen Factory can become an factory for any character.<br> 
 <br>
 <b>License information:<b/> MIT License Copyright (c) 2020 John Williams<br>
 <br>
